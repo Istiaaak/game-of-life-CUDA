@@ -109,8 +109,7 @@ Lors de l'exécution, le programme vous demande de configurer les paramètres su
 
 
 ### Animation des itérations
-
-- Les grilles sauvegardées dans `iterations.txt` sont animées avec Python.
+- Les grilles sauvegardées dans `iterations.txt` sont animées avec Python uniquement si l'on choisit de ne pas afficher la grille sur le terminal.
 - Chaque étape de la simulation est visualisée avec des couleurs et des bordures claires.
 - Une légende indique le numéro de génération en temps réel.
 
